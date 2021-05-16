@@ -1,4 +1,4 @@
-# zmnv-esbuild-stater-simple
+# zmnv-esbuild-starter-simple
 
 Simple way to start Node.js project.
 
