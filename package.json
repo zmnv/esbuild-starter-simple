@@ -1,0 +1,17 @@
+{
+  "name": "zmnv-esbuild-stater-simple",
+  "version": "1.0.0",
+  "description": "Simple JavaScript starter project based only on esbuild and nodemon",
+  "scripts": {
+    "start": "nodemon",
+    "build": "./node_modules/.bin/esbuild ./src --bundle --outfile=dist/index.js"
+  },
+  "keywords": [],
+  "author": "Valeriy Zimnev (@zmnv)",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "esbuild": "^0.11.23",
+    "nodemon": "^2.0.7"
+  }
+}
