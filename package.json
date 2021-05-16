@@ -1,5 +1,5 @@
 {
-  "name": "zmnv-esbuild-stater-simple",
+  "name": "zmnv-esbuild-starter-simple",
   "version": "1.0.0",
   "description": "Simple JavaScript starter project based only on esbuild and nodemon",
   "scripts": {
